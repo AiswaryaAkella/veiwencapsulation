@@ -1,0 +1,10 @@
+.border{
+    border:black solid;
+    
+    text-align: center;
+    margin-top: 20px;
+    
+}
+.child1container{
+    width:45%;
+}

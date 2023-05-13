@@ -1,0 +1,10 @@
+
+.border{
+    border:black solid;
+    text-align: center;
+    float:right;
+    margin-top: 20px;
+}
+.child2container{
+    width:100%;
+}
